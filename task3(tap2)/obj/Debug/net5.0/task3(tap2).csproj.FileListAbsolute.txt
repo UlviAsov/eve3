@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\task3\task3(tap2)\bin\Debug\net5.0\task3(tap2).exe
+C:\Users\ACER\source\repos\task3\task3(tap2)\bin\Debug\net5.0\task3(tap2).deps.json
+C:\Users\ACER\source\repos\task3\task3(tap2)\bin\Debug\net5.0\task3(tap2).runtimeconfig.json
+C:\Users\ACER\source\repos\task3\task3(tap2)\bin\Debug\net5.0\task3(tap2).runtimeconfig.dev.json
+C:\Users\ACER\source\repos\task3\task3(tap2)\bin\Debug\net5.0\task3(tap2).dll
+C:\Users\ACER\source\repos\task3\task3(tap2)\bin\Debug\net5.0\ref\task3(tap2).dll
+C:\Users\ACER\source\repos\task3\task3(tap2)\bin\Debug\net5.0\task3(tap2).pdb
+C:\Users\ACER\source\repos\task3\task3(tap2)\obj\Debug\net5.0\task3(tap2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\task3\task3(tap2)\obj\Debug\net5.0\task3(tap2).AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\task3\task3(tap2)\obj\Debug\net5.0\task3(tap2).AssemblyInfo.cs
+C:\Users\ACER\source\repos\task3\task3(tap2)\obj\Debug\net5.0\task3(tap2).csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\task3\task3(tap2)\obj\Debug\net5.0\task3(tap2).dll
+C:\Users\ACER\source\repos\task3\task3(tap2)\obj\Debug\net5.0\ref\task3(tap2).dll
+C:\Users\ACER\source\repos\task3\task3(tap2)\obj\Debug\net5.0\task3(tap2).pdb
+C:\Users\ACER\source\repos\task3\task3(tap2)\obj\Debug\net5.0\task3(tap2).genruntimeconfig.cache
